@@ -1,3 +1,116 @@
-p{
-  font-family: "Andika Basic";
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#first_name{
+  color:rgb(211,47,47);
+  text-transform: uppercase;
+  font-size: 40px;
+}
+
+#name{
+  text-transform: uppercase;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+#underline{
+  width: 50px;
+  color: rgb(211,47,47);
+  background-color: rgb(211,47,47);
+  margin-left: 0px;
+  height: 2px;
+  border: 0px;
+}
+
+#job {
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+h2{
+  text-transform: uppercase;
+  font-size: 25px;
+  border-bottom: solid 2px rgb(211,47,47);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.fas{
+  margin-right: 20px;
+  margin-left: 10px;
+  color: rgb(211,47,47);
+}
+
+.col1{
+  padding-right: 20px;
+  width: 110px;
+  color: rgb(211,47,47);
+}
+.raw1{
+  display: flex;
+  align-content: space-around;
+}
+
+.raw2{
+  display: flex;
+  align-content: space-around;
+}
+
+.raw3{
+  display: flex;
+  align-content: space-around;
+}
+
+.first{
+  color:rgb(211,47,47);
+  font-size: 30px;
+  list-style-type: none;
+  list-style-image: url(puceFirst.png);
+}
+
+span {
+  color: black;
+  font-size: 18px;
+}
+
+.place{
+  list-style-type: none;
+  padding-top: 2px;
+}
+
+#form_title1{
+  list-style-type: none;
+  text-transform: uppercase;
+  padding: 10px 5px 5px 5px;
+}
+
+#form_title2{
+  list-style-type: none;
+  text-transform: uppercase;
+  padding: 0px 5px 5px 5px;
+}
+
+#form_title3{
+  list-style-type: none;
+  text-transform: uppercase;
+  padding: 0px 5px 5px 5px;
+}
+
+.object{
+  list-style-type: none;
+  padding: 5px;
+}
+
+.description{
+  list-style-type: none;
+  padding: 5px;
+  text-align: justify;
 }
