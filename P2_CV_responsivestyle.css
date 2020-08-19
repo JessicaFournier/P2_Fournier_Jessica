@@ -1,0 +1,11 @@
+@media screen and (max-width: 992px)
+{
+    .col_container{
+        display: block;
+    }      
+
+    #bas{
+        position: relative;
+        padding-bottom: 30px;
+      }
+}
