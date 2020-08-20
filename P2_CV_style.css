@@ -173,19 +173,19 @@ span {
   padding-top: 2px;
 }
 
-#form_title1{
+.form_title1{
   list-style-type: none;
   text-transform: uppercase;
   padding: 10px 5px 5px 5px;
 }
 
-#form_title2{
+.form_title2{
   list-style-type: none;
   text-transform: uppercase;
   padding: 0px 5px 5px 5px;
 }
 
-#form_title3{
+.form_title3{
   list-style-type: none;
   text-transform: uppercase;
   padding: 0px 5px 5px 5px;
