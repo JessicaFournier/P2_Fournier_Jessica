@@ -62,6 +62,7 @@ body{
   padding-right: 20px;
   padding-top: 15px;
   font-size: 14px;
+  letter-spacing: 1px;
 }
 
 #bas{
@@ -102,7 +103,6 @@ header{
 }
 #underline{
   width: 50px;
-  color: rgb(211,47,47);
   background-color: rgb(211,47,47);
   margin-left: 0px;
   height: 2px;
@@ -218,4 +218,9 @@ span {
 .details{
   padding-bottom: 5px;
   width: 400px;
+}
+
+a{
+  color: black;
+  text-decoration: none;
 }
